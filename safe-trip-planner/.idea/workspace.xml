@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ebf16b2b-9ca6-44aa-98f6-a6e1fc693656" name="Changes" comment="applying same navbar for all navbar options such as home ,Destination,plan trip my trip">
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/safetrip/dto/PlannedPlace.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/safetrip/dto/PlannedPlace.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/safetrip/model/TripPlace.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/safetrip/model/TripPlace.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/safetrip/repository/TripPlaceRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/safetrip/repository/TripPlaceRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/my-trip.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/my-trip.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/plan-trip.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/plan-trip.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;AttarAlfaij&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/AttarAlfaij/safe-trip-planner.git&quot;,
+    &quot;accountId&quot;: &quot;435ee288-ea39-4cb4-9e5e-52f90727073b&quot;
+  }
+}</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/pom.xml" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="3AID0Q2qIMz2fMtW2gyiQGRQNII" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.SafeTripPlannerApplication.executor&quot;: &quot;Run&quot;,
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;Spring Boot.SafeTripPlannerApplication.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/alfai/Downloads/safe-trip-planner&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\alfai\Downloads\safe-trip-planner\src\main\java\com\safetrip" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-26cb7f24e5b0-intellij.indexing.shared.core-IU-253.29346.240" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ebf16b2b-9ca6-44aa-98f6-a6e1fc693656" name="Changes" comment="" />
+      <created>1772270969071</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1772270969071</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Added Home page and Plan Trip Page">
+      <option name="closed" value="true" />
+      <created>1772278049939</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1772278049939</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Added Home page and Plan Trip Page">
+      <option name="closed" value="true" />
+      <created>1772385481080</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1772385481080</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Added my trip and login page(No db)">
+      <option name="closed" value="true" />
+      <created>1772389666365</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1772389666365</updated>
+    </task>
+    <task id="LOCAL-00004" summary="resolved db issues and navigation related inpage issues">
+      <option name="closed" value="true" />
+      <created>1772392649292</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1772392649292</updated>
+    </task>
+    <task id="LOCAL-00005" summary="applying same navbar for all navbar options such as home ,Destination,plan trip my trip">
+      <option name="closed" value="true" />
+      <created>1772454940959</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1772454940959</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added Home page and Plan Trip Page" />
+    <MESSAGE value="Added my trip and login page(No db)" />
+    <MESSAGE value="resolved db issues and navigation related inpage issues" />
+    <MESSAGE value="applying same navbar for all navbar options such as home ,Destination,plan trip my trip" />
+    <option name="LAST_COMMIT_MESSAGE" value="applying same navbar for all navbar options such as home ,Destination,plan trip my trip" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/safe_trip_planner$SafeTripPlannerApplication.ic" NAME="SafeTripPlannerApplication Coverage Results" MODIFIED="1772301877859" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>com.safetrip.*</FILTER>
+    </SUITE>
+  </component>
+</project>
