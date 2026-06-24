@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="823c4135-fe96-4389-a199-7adf34fae65d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/safe-trip-planner/src/main/java/com/safetrip/dto/PlannedPlace.java" beforeDir="false" afterPath="$PROJECT_DIR$/safe-trip-planner/src/main/java/com/safetrip/dto/PlannedPlace.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/safe-trip-planner/src/main/java/com/safetrip/model/TripPlace.java" beforeDir="false" afterPath="$PROJECT_DIR$/safe-trip-planner/src/main/java/com/safetrip/model/TripPlace.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/safe-trip-planner/src/main/java/com/safetrip/repository/TripPlaceRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/safe-trip-planner/src/main/java/com/safetrip/repository/TripPlaceRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/safe-trip-planner/src/main/resources/static/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/safe-trip-planner/src/main/resources/static/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/safe-trip-planner/src/main/resources/static/my-trip.html" beforeDir="false" afterPath="$PROJECT_DIR$/safe-trip-planner/src/main/resources/static/my-trip.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/safe-trip-planner/src/main/resources/static/plan-trip.html" beforeDir="false" afterPath="$PROJECT_DIR$/safe-trip-planner/src/main/resources/static/plan-trip.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/safe-trip-planner" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "AttarAlfaij"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/AttarAlfaij/safe-trip-planner.git",
+    "accountId": "435ee288-ea39-4cb4-9e5e-52f90727073b"
+  }
+}]]></component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="3BsrFxpIEUFgsPIDm2FHhiAmUFx" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "Spring Boot.SafeTripPlannerApplication.executor": "Run",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/alfai/Downloads/safe-trip-planner (5)"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-26cb7f24e5b0-intellij.indexing.shared.core-IU-253.29346.240" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="823c4135-fe96-4389-a199-7adf34fae65d" name="Changes" comment="" />
+      <created>1775288519009</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1775288519009</updated>
+    </task>
+    <servers />
+  </component>
+</project>
